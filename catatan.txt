@@ -1,0 +1,1 @@
+kita bisa menambahkan kondisi jika bentuk nya persegi yang memiliki ukuran seperti kertas A4 dan di dalam nya memiliki objek seperti tulisan maka ambil objek itu saja jika tidak ada salah satu nya maka tidak perlu di amnil

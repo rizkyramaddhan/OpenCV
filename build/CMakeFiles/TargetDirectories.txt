@@ -1,0 +1,3 @@
+D:/Rizky Ramadhan/Projek/Bahasa C++/OpenCV/build/CMakeFiles/app.dir
+D:/Rizky Ramadhan/Projek/Bahasa C++/OpenCV/build/CMakeFiles/edit_cache.dir
+D:/Rizky Ramadhan/Projek/Bahasa C++/OpenCV/build/CMakeFiles/rebuild_cache.dir
